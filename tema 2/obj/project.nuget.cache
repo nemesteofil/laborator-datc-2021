@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGPX9RUtm1rdh8742UvVqyi7Eav2Uy3mmGae9/ViLy1qqZb7X2Zz7VTPiGjjoSq+i/ndwuh4QJiCArpHPU2n3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nemes\\Desktop\\tema 2\\tema 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nemes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nemes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nemes\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nemes\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nemes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nemes\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
